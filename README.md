@@ -28,4 +28,9 @@ My Courses and Certifications
    Certification Provider: Udemy
    Certification URL: https://www.udemy.com/certificate/UC-2d318174-d1d1-40f2-8d9f-7043dbc678a7/
    
+7. Certification Name: **GCP Associate Cloud Engineer - Google Cloud Certification**
+   Certification Completion ID: Kumaravel J
+   Certification Provider: Udemy
+   Certification URL: https://www.udemy.com/certificate/UC-cf4890ab-9c95-47d7-9cc1-0269bb9347b6/
+   
    
